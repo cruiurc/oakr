@@ -1,6 +1,6 @@
 #baseURL: https://nodejh.github.io/hugo-theme-mini
 languageCode: zh
-title: Hugo
+title: 橡树
 theme: mini
 paginate: 3
 
@@ -23,13 +23,13 @@ markup:
 
 social:
   github: https://github.com/cruiurc
-#  twitter: https://github.com/cruiurc
+  twitter: https://github.com/cruiurc
 #  stackoverflow: https://stackoverflow.com/users/4518882/nodejh
 
 
 params:
   author: crui
-  bio: PM
+  bio: something in the way
   description: My Blog
   enableRSS: true
   enableComments: true
