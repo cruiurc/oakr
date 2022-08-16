@@ -31,6 +31,6 @@ params:
   author: crui
   bio: something in the way
   description: My Blog
-  enableRSS: true
+  enableRSS: false
   enableComments: true
   enableGoogleAnalytics: true
