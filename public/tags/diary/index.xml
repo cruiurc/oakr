@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diary on 橡树</title>
+    <link>/tags/diary/</link>
+    <description>Recent content in diary on 橡树</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2022-08-16</title>
+      <link>/posts/2022-08-16/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2022-08-16/</guid>
+      <description>更新N100计划和风险 向刘昊说明新的工作模板 向汪加林沟通Q100的风险 大型机中航不能及时完成硬件交付 大型机中航软件开发缓慢 A200计划更新</description>
+    </item>
+    
+  </channel>
+</rss>
