@@ -8,5 +8,5 @@ features = ["fast", "minimalist", "responsive", "archive", "tags"]
 min_version = "0.75.0"
 
 [author]
-    name = "crui"
+    name = "nodejh"
     homepage = "https://github.com/nodejh"
