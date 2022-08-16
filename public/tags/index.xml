@@ -12,20 +12,11 @@
     
     
     <item>
-      <title>diary</title>
-      <link>/tags/diary/</link>
+      <title>WORK LOG</title>
+      <link>/tags/work-log/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/diary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>/tags/work/</link>
-      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/work/</guid>
+      <guid>/tags/work-log/</guid>
       <description></description>
     </item>
     
